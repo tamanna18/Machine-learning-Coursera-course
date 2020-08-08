@@ -1,3 +1,3 @@
 # Tam-Machine-learning
 Machine Learning
-andrew Ng
+andrew Ng machine learning
