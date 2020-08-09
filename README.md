@@ -5,5 +5,3 @@ all exercises solution
 zip file
 
 
-.
-
