@@ -2,7 +2,7 @@
 
 ### Machine Learning course
 
-##### andrew Ng on coursera
+#####  coursera
 
 all exercises solution
 
