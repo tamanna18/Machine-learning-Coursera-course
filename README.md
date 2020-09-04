@@ -4,7 +4,7 @@
 
 #####  coursera
 
-all exercises solution
+* all exercises solution
 
-zip file
+* zip files
 
