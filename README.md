@@ -3,7 +3,6 @@
 #####  coursera
 * all exercises solution
 
-
 * zip files
 
 
