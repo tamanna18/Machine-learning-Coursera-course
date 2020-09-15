@@ -2,7 +2,7 @@
 ####
 ### Machine Learning course
 
-#####  coursera
+#####  Coursera
 
 * all exercises solution
 
