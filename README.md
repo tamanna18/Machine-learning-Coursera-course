@@ -5,7 +5,7 @@
 
 #####  Coursera
 
-* all exercises solution
+* All exercises solution
 
 * zip files
 
