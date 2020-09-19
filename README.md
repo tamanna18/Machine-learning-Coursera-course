@@ -5,7 +5,7 @@
 
 
 
-### Machine Learning course
+### Machine Learning Course
 #####
 
 #####  Coursera
