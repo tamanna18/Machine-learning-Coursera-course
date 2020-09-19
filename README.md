@@ -13,7 +13,7 @@
 
 * All exercises solution
 
-* zip files
+* Zip files
 
 
 
